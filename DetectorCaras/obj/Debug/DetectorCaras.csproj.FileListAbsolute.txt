@@ -1,0 +1,20 @@
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\DetectorCaras\DetectorCaras\bin\Debug\DetectorCaras.exe.config
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\DetectorCaras\DetectorCaras\obj\Debug\DetectorCaras.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\DetectorCaras\DetectorCaras\obj\Debug\DetectorCaras.Properties.Resources.resources
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\DetectorCaras\DetectorCaras\obj\Debug\DetectorCaras.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\DetectorCaras\DetectorCaras\bin\Debug\DetectorCaras.exe
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\DetectorCaras\DetectorCaras\bin\Debug\DetectorCaras.pdb
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\DetectorCaras\DetectorCaras\obj\Debug\DetectorCaras.exe
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\DetectorCaras\DetectorCaras\obj\Debug\DetectorCaras.pdb
+C:\Users\Angel\Documents\Visual Studio 2015\Projects\DetectorCaras\DetectorCaras\obj\Debug\DetectorCaras.Form1.resources
+E:\Visual Studio\DetectorCaras\DetectorCaras\bin\Debug\DetectorCaras.exe.config
+E:\Visual Studio\DetectorCaras\DetectorCaras\obj\Debug\DetectorCaras.exe
+E:\Visual Studio\DetectorCaras\DetectorCaras\obj\Debug\DetectorCaras.pdb
+E:\Visual Studio\DetectorCaras\DetectorCaras\bin\Debug\DetectorCaras.exe
+E:\Visual Studio\DetectorCaras\DetectorCaras\bin\Debug\DetectorCaras.pdb
+E:\Visual Studio\DetectorCaras\DetectorCaras\obj\Debug\DetectorCaras.csprojResolveAssemblyReference.cache
+E:\Visual Studio\DetectorCaras\DetectorCaras\obj\Debug\DetectorCaras.Form1.resources
+E:\Visual Studio\DetectorCaras\DetectorCaras\obj\Debug\DetectorCaras.Properties.Resources.resources
+E:\Visual Studio\DetectorCaras\DetectorCaras\obj\Debug\DetectorCaras.csproj.GenerateResource.Cache
+E:\Visual Studio\DetectorCaras\DetectorCaras\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio\DetectorCaras\DetectorCaras\bin\Debug\Newtonsoft.Json.xml
